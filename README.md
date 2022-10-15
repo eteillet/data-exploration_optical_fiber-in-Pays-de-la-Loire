@@ -5,8 +5,7 @@ The goal is to have a vision of the deployment of optical fiber in the region an
 
 ### Data
     - ftth-en-pays-de-la-loire.csv
-    - source: https://data.vendee.fr/
-    - open data
+    - source: https://data.vendee.fr/ (open data)
 
 ### Technology stack
     - Jupyter Notebook
